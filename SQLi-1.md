@@ -1,8 +1,4 @@
-# Online Reviewer System v1.0 has SQL injection
-
 BUG_Author:waibi8Bu
-
-Website source code address: https://www.sourcecodester.com/php/12937/online-reviewer-system-using-phppdo.html
 
 Vulnerability File: /reviewer/system/system/admins/manage/users/user-update.php
 
